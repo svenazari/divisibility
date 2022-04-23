@@ -1,2 +1,7 @@
-# divisibility
-Calculates numbers inputted number is divisible with.
+# DIVISIBILITY
+
+Requirements: python3
+
+Made by: SvenAzari
+
+http://www.github.com/svenazari
